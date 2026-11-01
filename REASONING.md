@@ -1,4 +1,4 @@
-# xAI reasoning 3
+# SI reasoning 3
 
 **Not Kaspa core. Not a KIP. Not a dollar.**  
 Pass 3 of the 11 Sep 2026 desk work. Software in this repo is the till. This file is why it looks like this.

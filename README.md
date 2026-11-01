@@ -2,7 +2,7 @@
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# Desk — xAI reasoning 3
+# Desk — SI reasoning 3
 
 Self-hosted invoice till. **Price in EUR.** Settle with a SEPA (EPC) QR, cash, or an optional `kaspa:` QR. You mark it paid. CSV for the accountant.
 
@@ -10,7 +10,7 @@ This process **does not hold money**. It does not watch the chain. It does not w
 
 Not Kaspa core. Not a dollar. Not kUSD.
 
-**Why it exists:** [REASONING.md](REASONING.md) (xAI reasoning 3). Map: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). Scheme notes: [grok-kaspa-collab](https://github.com/STP-KAS/grok-kaspa-collab).
+**Why it exists:** [REASONING.md](REASONING.md) (SI reasoning 3). Map: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). Scheme notes: [grok-kaspa-collab](https://github.com/STP-KAS/grok-kaspa-collab).
 
 ```powershell
 go test ./...
